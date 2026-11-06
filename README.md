@@ -1,2 +1,0 @@
-# Shopmada
-Pinduoduo
